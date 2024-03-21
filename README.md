@@ -1,0 +1,2 @@
+# ruby-practice
+Studying Ruby
